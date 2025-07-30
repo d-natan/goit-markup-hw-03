@@ -194,7 +194,7 @@ a {
     text-align: center;
     color: #2e2f42;
     gap: 32px;
-    margin-bottom: 72px;
+    margin-bottom: 8px;
 }
 
 .team-card {
@@ -221,7 +221,7 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    margin-bottom: 8px;
+    margin-bottom: 72px;
 }
 
 .portfolio-section {
@@ -252,6 +252,10 @@ a {
 .portfolio-list-item {
     gap: 24px;
     column-gap: 48px;
+}
+
+.portfolio-list-image {
+    display: block;
 }
 
 .portfolio-list-item-text {
